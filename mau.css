@@ -1,0 +1,9 @@
+html,img{  
+    height:150px;  
+    border-radius: 50%;  
+    border: 15px solid #1d2781; } 
+    html, h1{
+        border-radius: 50%;
+        border:  30px rgb(55, 220, 146);
+        height:  50px;
+    }
